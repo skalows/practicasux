@@ -1,0 +1,88 @@
+.body{
+  background-color: #E6E6E6;
+  padding: 0px,
+}
+.div{
+  width: 700px;
+  height: 500px;
+  position: relative;
+  margin-top: 30px;
+  left: 25%;
+  background-color: transparent;
+}
+.textbox{
+  background-color: transparent;
+  border: none;
+  font-family: 'Roboto', sans-serif;
+  outline: none;
+  font-size: x-large;
+  border-bottom: 0px;
+  height: 30px;
+}
+.inputlabel{
+font-family: 'Roboto', sans-serif;
+}
+.span{
+  font-size: x-large;
+}
+.divheader{
+  top: 56px;
+  width: 700px;
+  height: 130px;
+  background-color: #4267b2;
+  position: relative;
+  margin: auto;
+}
+.divlog{
+  position: relative;
+  top:56px;
+  width: 700px;
+  height: 340px;
+  background-color: white;
+}
+.label{
+  position: absolute;
+  margin-left: 8%;
+  font-family: 'Roboto', sans-serif;
+}
+.imagen{
+  width: 55px;
+  margin: 37px 40px;
+}
+.imagendos{
+  width: 55px;
+  margin: 40px 470px;
+  position: absolute;
+}
+.h2{
+  position: absolute;
+  margin: 36px 128px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+.h3{
+  position: absolute;
+  margin: 65px 126px;
+  color: white;
+  opacity: 0.4;
+  font-family: 'Roboto', sans-serif;
+}
+
+.input{
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  outline: none;
+  font-size: large;
+  border-bottom: 0px;
+  background-color: transparent;
+  position: relative;
+}
+
+.label2{
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  font-size: large;
+  background-color: transparent;
+  position: relative;
+  margin:40px 70px;
+}
